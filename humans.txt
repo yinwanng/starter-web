@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Johnny Ng xxjohnnyng@gmail.com	@notwitter
 
 # THANKS
 
